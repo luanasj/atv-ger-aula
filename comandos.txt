@@ -25,3 +25,8 @@ git checkout <nome do arquivo>: reseta modificações do arquvo para o estado an
 
 git checkout <nome da branch>: transita entre as branches
 
+git reset HEAD <nome do arquivo>: desfaz mudanças em um arquivo que já está em staging.
+
+git reset HEAD~: desfaz mudanças em um arquivo que foi commitado e desfaz o commit. 
+
+
