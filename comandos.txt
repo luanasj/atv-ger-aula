@@ -31,4 +31,6 @@ git revert HEAD: constrói novo commit desfazendo as alterações do commit ante
 
 git branch: cria uma nova branch.
 
+git merge: cria um commit mesclando uma branch a outra, ou mescla commits diferentes de uma mesma branch. No segundo caso, pode ou não gerar um novo commit. 
+
 
