@@ -21,4 +21,7 @@ git clone: constrói um repositório local que é clone de um repositório remot
 git pull: atualiza a branch atual do repositório local com as modificações da mesma branch repositório remoto. 
     * git pull origin <nome da branch>: atualiza uma branch especificada, não necessariamente a atual.
 
+git checkout <nome do arquivo>: reseta modificações do arquvo para o estado anterior, caso o arquivo ainda não esteja em staging.
+
+git checkout <nome da branch>: transita entre as branches
 
