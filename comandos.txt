@@ -29,4 +29,4 @@ git reset HEAD <nome do arquivo>: desfaz mudanças em um arquivo que já está e
 
 git reset HEAD~: desfaz mudanças em um arquivo que foi commitado e desfaz o commit. 
 
-
+git revert HEAD: constrói novo commit desfazendo as alterações do commit anterior.
