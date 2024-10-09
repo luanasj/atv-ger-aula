@@ -14,6 +14,12 @@ git commit: salva os as versões dos arquivos em staging no repositório local.
 
 git remote add: adiciona conexão do repositório local com um repositório remoto via url.
 
+git remote rm: remove conexão com repositório remoto.
+
+git remote rename: renomeia apelido da conexão com repositório remoto.
+
+git remote set-url: modifica url do remote.
+
 git push: envia atualizações do repositório local para o repositório remoto. 
 
 git clone: constrói um repositório local que é clone de um repositório remoto, copiando todos os arquivos, branches e versões. 
