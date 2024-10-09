@@ -15,3 +15,5 @@ git commit: salva os as versões dos arquivos em staging no repositório local.
 git remote add: adiciona conexão do repositório local com um repositório remoto via url.
 
 git push: envia atualizações do repositório local para o repositório remoto. 
+
+git clone: constrói um repositório local que é clone de um repositório remoto, copiando todos os arquivos, branches e versões. 
