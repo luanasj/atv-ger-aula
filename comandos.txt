@@ -8,4 +8,7 @@ git add: adiciona arquivos especificos ou todos os arquivos do diretório no sta
 
 git status: retorna quais arquivos estão em staging(estado temporário de memória);
 
+git rm: remove arquivos do staging.
+
 git commit: salva os as versões dos arquivos em staging no repositório local.
+
