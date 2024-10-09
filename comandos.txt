@@ -4,6 +4,8 @@ git config: configura informações de usuário que estarão relacionadas aos co
 
 git init: inicia um repositório local e vazio referente ao diretório corrente;
 
-git add: adiciona arquivos especificos ou todos os arquivos do diretório na branch atual do repositório local. 
+git add: adiciona arquivos especificos ou todos os arquivos do diretório no staging da branch local. 
 
 git status: retorna quais arquivos estão em staging(estado temporário de memória);
+
+git commit: salva os as versões dos arquivos em staging no repositório local.
