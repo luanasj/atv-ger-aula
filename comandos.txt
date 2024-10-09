@@ -17,3 +17,8 @@ git remote add: adiciona conexão do repositório local com um repositório remo
 git push: envia atualizações do repositório local para o repositório remoto. 
 
 git clone: constrói um repositório local que é clone de um repositório remoto, copiando todos os arquivos, branches e versões. 
+
+git pull: atualiza a branch atual do repositório local com as modificações da mesma branch repositório remoto. 
+    * git pull origin <nome da branch>: atualiza uma branch especificada, não necessariamente a atual.
+
+
