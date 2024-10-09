@@ -1,2 +1,3 @@
 git init: inicia um respositório local; 
 
+git config: configura informações de usuário que estarão relacionadas aos commits
