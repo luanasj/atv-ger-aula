@@ -13,3 +13,5 @@ git rm: remove arquivos do staging.
 git commit: salva os as versões dos arquivos em staging no repositório local.
 
 git remote add: adiciona conexão do repositório local com um repositório remoto via url.
+
+git push: envia atualizações do repositório local para o repositório remoto. 
