@@ -54,3 +54,10 @@ Slide 04 e 05: O que é git e como baixar o git e verificar se foi feita a insta
 
 Slide 06: Serviços de Hospedagem git (GitHub, GitLab, Atlassian Bitbucket);
 
+Slide 07 e 08: Github e integração github e vscode;
+
+Slide 09: Conceitos de Diretório e Repositório;
+
+Slide 10: Comandos para configuração de informações de usuário no git;
+
+
