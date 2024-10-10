@@ -87,3 +87,7 @@ Slide 31: Definição de merge request/pull request;
 Slide 32 ao 34: Boas práticas para a criação de commits;
 
 Slide 35 e 36: Workflows - exemplos de fluxos de trabalho direcionados ao versionamento; 
+
+Slide 37: como utilizar um repositório local ligado a mais de um repositório remoto;
+
+Slide 38 a 40: Descrição da atividade pontuada;
