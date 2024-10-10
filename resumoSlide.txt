@@ -1,0 +1,69 @@
+## AULA 01 GENRENCIA E CONFIGURACAO DE SOFTWARE
+
+Slide 1: Informacoes sobre os orientadores;
+
+Slide 2: Ementas das aulas 1 e 2;
+
+Slide 3: Ementas das aulas 3 e 4;
+
+Slide 4: Ementas das aulas 3 e 4;
+
+Slide 5: Ementas das aulas 5 e 6;
+
+Slide 6: Distribuição de Notas;
+
+Slide 7: Significado e tradução de SCM e possível aplicação dos conceitos (github,gitlab,...);
+
+Slide 8: Definição do que é software, artefatos para usuário e para desenvolvedor;
+
+Slide 9: Para que serve a gerência de configuração de software : Identificação, Controle de Mudanças, Controle de Versão, Auditoria de Configuração. Plano de Gerência de software;
+
+Slide 10: História da SCM a partir dos anos 90;
+
+Slide 11: Conceitos importantes da SCM: Item de configuração, Baseline, Auditoria de configuração. Impacto positivo do uso correto da SCM;
+
+Slide 12: Quais pessoas são impactadas pelo Gerenciamento de Configuração de Software;
+
+Slide 13: O que é o controle de mudança e para que serve;
+
+Slide 14: Definição de Issue Tracking e Atributos de uma Issue;
+
+Slide 15: Definição de Milestones e Comitê de Controle de Mudança;
+
+Slide 16: imagem de exemplo de integração dos conceitos de SCM em uma plataforma;
+
+Slide 17: Questionamento sobre as desvantagens de não se utiliza o controle de mudança;
+
+Slide 18: Exemplo da forma não escalável de fazer versionamento;
+
+Slide 19: ferramentas para controle d eversão de software: git e github;
+
+Slide 20: Conceitos de Diretpirui de Trabalho, Repositório e Histórico de Versão;
+
+Slide 21: Discussão das desvantagens de não utilizar o controle de versão de software;
+
+Slide 22: Link da atividade do dia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
