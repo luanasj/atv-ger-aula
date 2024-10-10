@@ -70,5 +70,8 @@ Slide 16: imagens com piadas sobre o Vim;
 
 Slides 17 e 18: comandos git para conectar repositório local com um remoto e como conectar repositório remoto com um local;
 
+slide 19 e 20: comandos git para atualizar repositório local e remoto;
 
+Slide 21: comandos git para reverter mudanças;
 
+slides 22 e 23: Comandos git para criar branches e navegar entre brenahces e entre versões do código;
