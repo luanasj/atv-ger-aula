@@ -50,31 +50,7 @@ Slide 01: Contatos dos orientadores;
 
 Slide 02 e 03: Tecnologias atuais para versionamento de código, sistemas centralizados e distrubuídos (Git, Mercurial,Subversion); 
 
+Slide 04 e 05: O que é git e como baixar o git e verificar se foi feita a instalação completa;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Slide 06: Serviços de Hospedagem git (GitHub, GitLab, Atlassian Bitbucket);
 
