@@ -21,7 +21,7 @@ Milestones: Metas do projeto, compostas de pequenas issues com um objetivo comum
 
 Comitê de Controle de Mudança: Grupo responsável pela auditioria de software;
 
-Workflows: Paradigmas de controle de versão e mu
+Workflows: Paradigmas de controle de versão e controle de mudanças. 
 
 
 
