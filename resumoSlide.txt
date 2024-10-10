@@ -64,5 +64,11 @@ Slide 11 e 12: Criando repositório local e repositório remoto;
 
 Slide 13 e 14: comandos git para adicionar arquivos e remover adicionados;
 
+Slide 15: comando git para criar commit;
+
+Slide 16: imagens com piadas sobre o Vim;
+
+Slides 17 e 18: comandos git para conectar repositório local com um remoto e como conectar repositório remoto com um local;
+
 
 
