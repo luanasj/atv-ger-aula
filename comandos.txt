@@ -1,0 +1,46 @@
+git init: inicia um respositório local; 
+
+git config: configura informações de usuário que estarão relacionadas aos commits
+
+git init: inicia um repositório local e vazio referente ao diretório corrente;
+
+git add: adiciona arquivos especificos ou todos os arquivos do diretório no staging da branch local. 
+
+git status: retorna quais arquivos estão em staging(estado temporário de memória);
+
+git rm: remove arquivos do staging.
+
+git commit: salva os as versões dos arquivos em staging no repositório local.
+
+git remote add: adiciona conexão do repositório local com um repositório remoto via url.
+
+git remote rm: remove conexão com repositório remoto.
+
+git remote rename: renomeia apelido da conexão com repositório remoto.
+
+git remote set-url: modifica url do remote.
+
+git push: envia atualizações do repositório local para o repositório remoto. 
+
+git clone: constrói um repositório local que é clone de um repositório remoto, copiando todos os arquivos, branches e versões. 
+
+git pull: atualiza a branch atual do repositório local com as modificações da mesma branch repositório remoto. 
+    * git pull origin <nome da branch>: atualiza uma branch especificada, não necessariamente a atual.
+
+git checkout: 1. reseta modificações do arquvo para o estado anterior, caso o arquivo ainda não esteja em staging; 2. transita entre as branches; 3. transita entre commits.
+
+git reset HEAD <nome do arquivo>: desfaz mudanças em um arquivo que já está em staging.
+
+git reset HEAD~: desfaz mudanças em um arquivo que foi commitado e desfaz o commit. 
+
+git revert HEAD: constrói novo commit desfazendo as alterações do commit anterior.
+
+git branch: cria uma nova branch.
+
+git merge: cria um commit mesclando uma branch a outra, ou mescla commits diferentes de uma mesma branch. No segundo caso, pode ou não gerar um novo commit. 
+
+git rebase: pode ser usada no repositório *local* para mesclar o histório de commits de duas branches diferentes.
+
+
+
+

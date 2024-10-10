@@ -1,0 +1,34 @@
+Identificação: Visualizar quais são os arquivos e versões do software;
+
+Controle de mudanças: gerencias adições ou decrementos de funcionalidades;
+
+Controle de versão: gerencias multiplas versões das funcionalidades já existentes;
+
+Auditoria de configuração: testar a qualidade do software, arquivos e versões, garantir documentação e compatibilidade do software final com as especificações necessárias;
+
+Plano de gerência de software: planejamento quanto ao controle de versão, de mudanças e de auditoria;
+
+Item de configuração: arquivo/ferramenta ou conjunto de arquivos/ferramentas diretamente ligados ao funcionamento do software;
+
+Baseline: versão estável do software que pode ser disponibilizada para o usuário ou servir como base para o desenvolvimento;
+
+Issue: tarefa a mudanças, consertos e melhorias nos artefatos;
+
+Issue tracking: sustema de gerenciamento de issues;
+
+Milestones: Metas do projeto, compostas de pequenas issues com um objetivo comum.
+
+
+Comitê de Controle de Mudança: Grupo responsável pela auditioria de software;
+
+Workflows: Paradigmas de controle de versão e controle de mudanças. 
+
+
+
+
+
+
+
+
+
+
