@@ -1,4 +1,4 @@
-## AULA 01 GENRENCIA E CONFIGURACAO DE SOFTWARE
+## AULA 01 GERENCIA E CONFIGURACAO DE SOFTWARE
 
 Slide 1: Informacoes sobre os orientadores;
 
@@ -43,6 +43,17 @@ Slide 20: Conceitos de Diretpirui de Trabalho, Repositório e Histórico de Vers
 Slide 21: Discussão das desvantagens de não utilizar o controle de versão de software;
 
 Slide 22: Link da atividade do dia.
+
+## AULA 02 GERENCIA E CONFIGURACAO DE SOFTWARE
+
+Slide 01: Contatos dos orientadores;
+
+Slide 02 e 03: Tecnologias atuais para versionamento de código, sistemas centralizados e distrubuídos (Git, Mercurial,Subversion); 
+
+
+
+
+
 
 
 
