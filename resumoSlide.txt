@@ -81,3 +81,9 @@ Slide 24 e 25: git merge entre branches e entre commits;
 Slide 26: git rebase;
 
 Slide 27 a 30: Conflitos entre versões e como resolver conflitos;
+
+Slide 31: Definição de merge request/pull request;
+
+Slide 32 ao 34: Boas práticas para a criação de commits;
+
+Slide 35 e 36: Workflows - exemplos de fluxos de trabalho direcionados ao versionamento; 
