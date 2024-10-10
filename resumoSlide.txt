@@ -60,4 +60,9 @@ Slide 09: Conceitos de Diretório e Repositório;
 
 Slide 10: Comandos para configuração de informações de usuário no git;
 
+Slide 11 e 12: Criando repositório local e repositório remoto;
+
+Slide 13 e 14: comandos git para adicionar arquivos e remover adicionados;
+
+
 
